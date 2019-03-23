@@ -12,4 +12,5 @@ include 'elems/form.php';
 
             header('Location: index.php');
             die();
+			//уфыдкшвгп
         }
