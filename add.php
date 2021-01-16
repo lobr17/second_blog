@@ -2,7 +2,6 @@
 include 'elems/init.php';
 include 'elems/form.php';
 
-
         if (!empty($_POST['title']) and !empty($_POST['text'])) {
             $title = $_POST['title'];
             $text = $_POST['text'];
